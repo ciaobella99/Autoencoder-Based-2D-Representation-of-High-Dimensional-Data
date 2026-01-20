@@ -73,7 +73,7 @@ python auto.py
 - 以及模型對應的分類預測結果(最後一行)
 - 每一列對應一筆測試樣本的結果
 ### 1) 7個類別在平面上的分布狀況（MAE)（Figure 1）
-![訓練結果可視化](images/reduced_data.png)
+![訓練結果可視化](reduced_data.png)
 
 **說明：**
 - The colors for different 
